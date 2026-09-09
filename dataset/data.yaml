@@ -1,0 +1,7 @@
+path: .
+train: images/train
+val: images/val
+
+names:
+  0: steel_ball
+  1: pipe_track

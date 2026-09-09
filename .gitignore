@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+Thumbs.db
+
+# Generated datasets and training outputs
+datasets/
+runs/
+captures/
+records/
+*.log
+
+# Raw recordings are intentionally not tracked
+*.avi
+*.mov
+*.mkv
